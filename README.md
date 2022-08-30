@@ -19,8 +19,4 @@ Here are some ideas to get you started:
 - ⚡ Fato aleatório: Minha banda favorita é Alice in Chains
 - 💙 “Feito é melhor do que perfeito!”
 
-<div align="center">
-  <a href="https://github.com/leonardoalc">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leonardoalc&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardoalc&layout=compact&langs_count=7&theme=algolia"/>
-</div>
+![Leonardo GitHub stats](https://github-readme-stats.vercel.app/api?username=leonardoalcanuraghazra&hide=contribs,prs)
