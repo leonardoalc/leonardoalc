@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 - ⚡ Fato aleatório: Minha banda favorita é Alice in Chains
 - 💙 “Feito é melhor do que perfeito!”
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leonardoalc&show_icons=true&theme=radical)
