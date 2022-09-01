@@ -1,4 +1,4 @@
-### Aoba! Sou apenas um jovem estudando e buscando se tornar um programador! 👋
+### Aoba!👋
 
 <!--
 **leonardoalc/leonardoalc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
