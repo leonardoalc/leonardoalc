@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🌱 Atualmente estudando html/css/javascript
-- 🙂 Buscando minha primeira oportunidade com programador
+- 🙂 Buscando minha primeira oportunidade como desenvolvedor
 - ⚡ Fato aleatório: Minha banda favorita é Alice in Chains
 - 💙 “Feito é melhor do que perfeito!”
 
