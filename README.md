@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🌱 Atualmente estudando html/css/javascript
+- 🌱 Atualmente estudando react
 - 🙂 Buscando minha primeira oportunidade como desenvolvedor
 - ⚡ Fato aleatório: Minha banda favorita é Alice in Chains
 - 💙 “Feito é melhor do que perfeito!”
