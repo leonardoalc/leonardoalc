@@ -13,13 +13,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-- 🌱 Atualmente estudando react
+
+
+
+- 🌱 Atualmente estudando react e nodejs
 - 🙂 Buscando minha primeira oportunidade como desenvolvedor
 - ⚡ Fato aleatório: Minha banda favorita é Alice in Chains
 - 💙 “Feito é melhor do que perfeito!”
-
-[LinkedIn](https://www.linkedin.com/in/sandro-alcantara/)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leonardoalc&show_icons=true&theme=algolia)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardoalc&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+-->
